@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConcertTickets</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="select_group">
+        <item>Dragonfly</item>
+        <item>Nine Volt</item>
+        <item>Red Road</item>
+    </string-array>
+</resources>
+
